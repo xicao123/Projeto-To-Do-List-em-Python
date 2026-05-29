@@ -295,7 +295,6 @@ class GestorTarefas:
         c_concluida = 0
         c_cancelada = 0
         
-        ("escolar", "trabalho", "casa", "geral")
         c_categoria_escolar= 0
         c_categoria_trabalho= 0
         c_categoria_casa= 0
